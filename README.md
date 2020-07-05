@@ -4,7 +4,19 @@ The London Git User Group began in January 2018 after [a successful hackathon](h
 
 The London Git User Group is now online - it's a virtual meetup of people who are passionate about Git and version control, whether that means using Git to empower their development, developing the git version control system itself, or helping others use Git.  This new virtual format allows us to become a more international group - we meet in the evening (18:30 London time) at the last Tuesday of the month, which we hope allows more of our friends around the world to join.
 
+## Upcoming Talks
+
+| Date              | Topic |
+|-------------------|-------|
+| 28 July 2020      | TBD: suggestions welcome! |
+
 If you have a suggestion for a topic that you'd like to hear about, or (better still) a topic that you'd like to discuss, please [ask in the discussions](https://github.com/londongit/londongit/discussions).
+
+## Prior Talks
+
+| Date              | Topic |
+|-------------------|-------|
+| 28 July 2020      | [Introduction to GitHub Actions](https://www.youtube.com/watch?v=y_R07UCgUdw) by [Edward Thomson](http://twitter.com/ethomson) |
 
 ## Organizer(s)
 
